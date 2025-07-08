@@ -1,0 +1,2 @@
+"IgnoreCase","LineNumber","Line","Filename","Path","Pattern","Context","Matches"
+"True","1","Confidential investigation notes. Handle with care.","notes.txt","C:\DF Projects\df-mod3-sdm\3-Evidence\notes.txt","confidential",,"System.Text.RegularExpressions.Match[]"

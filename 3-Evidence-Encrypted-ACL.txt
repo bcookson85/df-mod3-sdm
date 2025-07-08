@@ -1,0 +1,7 @@
+
+    Directory: C:\DF Projects\df-mod3-sdm
+
+Path                 Owner                  Access
+----                 -----                  ------
+3-Evidence-Encrypted BUILTIN\Administrators BUILTIN\Administrators Allow  FullControl…
+
